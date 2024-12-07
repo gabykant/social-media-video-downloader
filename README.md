@@ -32,3 +32,5 @@ The goal is to create a desktop application using Java and JavaFX that allows us
 - _cd_ in side the project folder
 - Install all packages: _mvn clean package_
 - Run the application: _mvn javafx:run_
+
+![SMVideo](screen.png)
