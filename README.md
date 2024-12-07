@@ -17,6 +17,8 @@ The goal is to create a desktop application using Java and JavaFX that allows us
 
 **Completion Notification:** Use modal alert dialogs to notify users when downloads finish.
 
+**SceneBuilder** was used to design the UI
+
 ## Technical Challenges:
 
 - Integration of third-party libraries or APIs for downloading videos from supported platforms (TBA).
